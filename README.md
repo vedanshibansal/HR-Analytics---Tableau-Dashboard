@@ -4,7 +4,7 @@
 
 As an **HR manager**, having a **dashboard** that provides both **summary views for high-level insights** and **detailed employee records for in-depth analysis** is essential. This project leverages **Tableau** to visualize **HR data trends, employee demographics, salary distributions, and workforce performance**. 🚀  
 
-![DashBoard](https://github.com/vedanshibansal/HR-Analytics---Tableau-Dashboard/blob/6fb6819c0cc87825742aa0c2465b506a846ad654/HR%20_%20Summary.png")
+![DashBoard](https://github.com/vedanshibansal/HR-Analytics---Tableau-Dashboard/blob/6fb6819c0cc87825742aa0c2465b506a846ad654/HR%20_%20Summary.png)
 
 ---
 
@@ -62,15 +62,15 @@ The summary view is divided into three main sections: **Overview, Demographics, 
 ### 1️⃣ Overview - High-Level HR Insights 📊  
 
 - **Total employees breakdown:** Hired, Active, and Terminated Employees.
- ![Employees]("https://github.com/vedanshibansal/HR-Analytics---Tableau-Dashboard/blob/1150fc0968396a20b76f7625e30c62de467625ac/employees")  
+ ![Employees](https://github.com/vedanshibansal/HR-Analytics---Tableau-Dashboard/blob/1150fc0968396a20b76f7625e30c62de467625ac/employees)  
 - **Employee trends over the years** (Hired vs. Terminated employees).  
 - **Department & Job Title Breakdown** – Visualizing workforce distribution.
-  ![Department]("https://github.com/vedanshibansal/HR-Analytics---Tableau-Dashboard/blob/1d329460f3b476cb235f1b5cbf202a5dba14dfb1/Departments") 
+  ![Department](https://github.com/vedanshibansal/HR-Analytics---Tableau-Dashboard/blob/1d329460f3b476cb235f1b5cbf202a5dba14dfb1/Departments) 
 - **HQ vs. Branches Comparison** (**New York as HQ**).
-    ![HQ]("https://github.com/vedanshibansal/HR-Analytics---Tableau-Dashboard/blob/1d8acb05d866f7ecb73e0622d0d7df76accc84d1/Location") 
+    ![HQ](https://github.com/vedanshibansal/HR-Analytics---Tableau-Dashboard/blob/1d8acb05d866f7ecb73e0622d0d7df76accc84d1/Location) 
 
 ### 2️⃣ Demographics - Workforce Composition 👥  
-  ![Demographics]("https://github.com/vedanshibansal/HR-Analytics---Tableau-Dashboard/blob/1d8acb05d866f7ecb73e0622d0d7df76accc84d1/Screenshot%202025-03-17%20095849.png")
+  ![Demographics](https://github.com/vedanshibansal/HR-Analytics---Tableau-Dashboard/blob/1d8acb05d866f7ecb73e0622d0d7df76accc84d1/Screenshot%202025-03-17%20095849.png)
 
 - **Gender Ratio** – % of male vs. female employees.  
 - **Age Group Distribution** – Employees by different age brackets.  
@@ -78,7 +78,7 @@ The summary view is divided into three main sections: **Overview, Demographics, 
 - **Education vs. Performance** – Does higher education correlate with better performance ratings?  
 
 ### 3️⃣ Income Analysis - Salary Insights 💰  
-   ![Income]("https://github.com/vedanshibansal/HR-Analytics---Tableau-Dashboard/blob/fb97cd6ce1b5408012ac11799d58539f2b0962aa/Income")
+   ![Income](https://github.com/vedanshibansal/HR-Analytics---Tableau-Dashboard/blob/fb97cd6ce1b5408012ac11799d58539f2b0962aa/Income)
 
 - **Salary trends across education levels & genders** – Identifying discrepancies.  
 - **Salary vs. Age by Department** – Does age impact salary in different job roles?  
@@ -87,7 +87,7 @@ The summary view is divided into three main sections: **Overview, Demographics, 
 ---
 
 ## 📜 Employee Records View 📑  
-   ![HR Details]("https://github.com/vedanshibansal/HR-Analytics---Tableau-Dashboard/blob/bf38a4aa45368fb31229494ca8cc2c2cdaa966a3/HR%20_%20Summary.png")
+   ![HR Details](https://github.com/vedanshibansal/HR-Analytics---Tableau-Dashboard/blob/bf38a4aa45368fb31229494ca8cc2c2cdaa966a3/HR%20_%20Summary.png)
 
 ✔ **Comprehensive employee list including:**  
 Employee ID, First Name, Last Name, Gender, State, City, Department, Job Title, Salary, Hire Date, Termination Date, Performance Rating.  
