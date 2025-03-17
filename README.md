@@ -4,6 +4,8 @@
 
 As an **HR manager**, having a **dashboard** that provides both **summary views for high-level insights** and **detailed employee records for in-depth analysis** is essential. This project leverages **Tableau** to visualize **HR data trends, employee demographics, salary distributions, and workforce performance**. 🚀  
 
+![DashBoard](https://github.com/vedanshibansal/HR-Analytics---Tableau-Dashboard/blob/6fb6819c0cc87825742aa0c2465b506a846ad654/HR%20_%20Summary.png")
+
 ---
 
 ## 📂 Understanding the Data  
@@ -29,15 +31,13 @@ Includes information on:
 ## 🛠 Process Followed to Build the Dashboard  
 
 ### 1️⃣ Building the Data Source  
-![Data Source](visualizations/Screenshot_2025-03-17_095112.png)  
 
 ✔ **Collected & Connected Data** – Integrated employee data.  
 ✔ **Checked Data Quality** – Ensured accuracy and completeness.  
-✔ **Standardized Data Types** – Converted dates, normalized salary fields.  
+✔ **Standardized Data Types** – Converted dates, normalized salary fields. 
 ✔ **Explored & Understood Data** – Identified trends and missing values.  
 
 ### 2️⃣ Building Charts & Visualizations  
-📌 _Insert Screenshot of Key Charts_  
 
 ✔ **Analyzed Requirements & Chose Charts** – Created meaningful visualizations.  
 ✔ **Designed Initial Sheet Formats** – Defined layout consistency.  
@@ -45,11 +45,10 @@ Includes information on:
 ✔ **Built & Formatted Charts** – Enhanced readability and usability.  
 
 ### 3️⃣ Building the Dashboard  
-📌 _Insert Screenshot of Full Dashboard_  
 
 ✔ **Planned Dashboard Structure** – Drafted mockups for layout.  
 ✔ **Organized Containers & Layouts** – Ensured structured visuals.  
-✔ **Formatted Colors, Text, & Spacing** – Created a polished presentation.  
+✔ **Formatted Colors, Text, & Spacing** – Created a polished presentation. 
 ✔ **Refined Charts & Tooltips** – Improved interactivity.  
 ✔ **Added Filters & Legends** – Enabled dynamic data exploration.  
 ✔ **Final Touches** – Incorporated company branding, icons, and navigation.  
@@ -61,16 +60,17 @@ Includes information on:
 The summary view is divided into three main sections: **Overview, Demographics, and Income Analysis**.  
 
 ### 1️⃣ Overview - High-Level HR Insights 📊  
-📌 _Insert Screenshot of Overview Metrics_  
 
-- **Total employees breakdown:** Hired, Active, and Terminated Employees.  
+- **Total employees breakdown:** Hired, Active, and Terminated Employees.
+ ![Employees]("https://github.com/vedanshibansal/HR-Analytics---Tableau-Dashboard/blob/1150fc0968396a20b76f7625e30c62de467625ac/employees")  
 - **Employee trends over the years** (Hired vs. Terminated employees).  
-- **Department & Job Title Breakdown** – Visualizing workforce distribution.  
-- **HQ vs. Branches Comparison** (**New York as HQ**).  
-- **City & State-wise Employee Distribution.**  
+- **Department & Job Title Breakdown** – Visualizing workforce distribution.
+  ![Department]("https://github.com/vedanshibansal/HR-Analytics---Tableau-Dashboard/blob/1d329460f3b476cb235f1b5cbf202a5dba14dfb1/Departments") 
+- **HQ vs. Branches Comparison** (**New York as HQ**).
+    ![HQ]("https://github.com/vedanshibansal/HR-Analytics---Tableau-Dashboard/blob/1d8acb05d866f7ecb73e0622d0d7df76accc84d1/Location") 
 
 ### 2️⃣ Demographics - Workforce Composition 👥  
-📌 _Insert Screenshot of Demographics View_  
+  ![Demographics]("https://github.com/vedanshibansal/HR-Analytics---Tableau-Dashboard/blob/1d8acb05d866f7ecb73e0622d0d7df76accc84d1/Screenshot%202025-03-17%20095849.png")
 
 - **Gender Ratio** – % of male vs. female employees.  
 - **Age Group Distribution** – Employees by different age brackets.  
@@ -78,7 +78,7 @@ The summary view is divided into three main sections: **Overview, Demographics, 
 - **Education vs. Performance** – Does higher education correlate with better performance ratings?  
 
 ### 3️⃣ Income Analysis - Salary Insights 💰  
-📌 _Insert Screenshot of Salary Analysis_  
+   ![Income]("https://github.com/vedanshibansal/HR-Analytics---Tableau-Dashboard/blob/fb97cd6ce1b5408012ac11799d58539f2b0962aa/Income")
 
 - **Salary trends across education levels & genders** – Identifying discrepancies.  
 - **Salary vs. Age by Department** – Does age impact salary in different job roles?  
@@ -87,7 +87,7 @@ The summary view is divided into three main sections: **Overview, Demographics, 
 ---
 
 ## 📜 Employee Records View 📑  
-📌 _Insert Screenshot of Employee Records Table_  
+   ![HR Details]("https://github.com/vedanshibansal/HR-Analytics---Tableau-Dashboard/blob/bf38a4aa45368fb31229494ca8cc2c2cdaa966a3/HR%20_%20Summary.png")
 
 ✔ **Comprehensive employee list including:**  
 Employee ID, First Name, Last Name, Gender, State, City, Department, Job Title, Salary, Hire Date, Termination Date, Performance Rating.  
@@ -97,7 +97,7 @@ Employee ID, First Name, Last Name, Gender, State, City, Department, Job Title, 
 ---
 
 ## 📊 Final Dashboard - Bringing It All Together  
-📌 _Insert Screenshot of Full HR Dashboard_  
+  
 
 This **interactive Tableau dashboard** allows users to:  
 ✅ **Analyze overall HR performance at a glance.**  
@@ -111,7 +111,6 @@ This **interactive Tableau dashboard** allows users to:
 
 📁 **HR_DASHBOARD.twbx** – The **interactive Tableau dashboard**.  
 📁 **HumanResources.csv** – The **raw HR dataset**.  
-📁 **visualizations/** – **Screenshots of key dashboard insights**.  
 
 ---
 
@@ -128,17 +127,3 @@ This **interactive Tableau dashboard** allows users to:
 📌 **Add predictive modeling for employee attrition risk.**  
 📌 **Include industry benchmarks for salary comparisons.**  
 📌 **Integrate AI-driven HR analytics for better decision-making.**  
-
----
-
-## 🎯 Contribute & Explore  
-
-This project helps **HR teams make data-driven workforce decisions** using **Tableau**.  
-Want to contribute? **Fork the repo** & share your analysis! 🚀  
-
-📌 **GitHub Repo:** [Your GitHub Link Here]  
-
----
-
-👨‍💻 **Author:** [Your Name]  
-📧 **Contact:** [Your Email]  
