@@ -62,12 +62,17 @@ The summary view is divided into three main sections: **Overview, Demographics, 
 ### 1️⃣ Overview - High-Level HR Insights 📊  
 
 - **Total employees breakdown:** Hired, Active, and Terminated Employees.
- ![Employees](https://github.com/vedanshibansal/HR-Analytics---Tableau-Dashboard/blob/1150fc0968396a20b76f7625e30c62de467625ac/employees)  
+- 
+ ![Employees](https://github.com/vedanshibansal/HR-Analytics---Tableau-Dashboard/blob/1150fc0968396a20b76f7625e30c62de467625ac/employees)
+
 - **Employee trends over the years** (Hired vs. Terminated employees).  
 - **Department & Job Title Breakdown** – Visualizing workforce distribution.
-  ![Department](https://github.com/vedanshibansal/HR-Analytics---Tableau-Dashboard/blob/1d329460f3b476cb235f1b5cbf202a5dba14dfb1/Departments) 
+
+   ![Department](https://github.com/vedanshibansal/HR-Analytics---Tableau-Dashboard/blob/1d329460f3b476cb235f1b5cbf202a5dba14dfb1/Departments)
+  
 - **HQ vs. Branches Comparison** (**New York as HQ**).
-    ![HQ](https://github.com/vedanshibansal/HR-Analytics---Tableau-Dashboard/blob/1d8acb05d866f7ecb73e0622d0d7df76accc84d1/Location) 
+
+   ![HQ](https://github.com/vedanshibansal/HR-Analytics---Tableau-Dashboard/blob/1d8acb05d866f7ecb73e0622d0d7df76accc84d1/Location) 
 
 ### 2️⃣ Demographics - Workforce Composition 👥  
   ![Demographics](https://github.com/vedanshibansal/HR-Analytics---Tableau-Dashboard/blob/1d8acb05d866f7ecb73e0622d0d7df76accc84d1/Screenshot%202025-03-17%20095849.png)
@@ -87,7 +92,7 @@ The summary view is divided into three main sections: **Overview, Demographics, 
 ---
 
 ## 📜 Employee Records View 📑  
-   ![HR Details](https://github.com/vedanshibansal/HR-Analytics---Tableau-Dashboard/blob/bf38a4aa45368fb31229494ca8cc2c2cdaa966a3/HR%20_%20Summary.png)
+   ![HR Details](https://github.com/vedanshibansal/HR-Analytics---Tableau-Dashboard/blob/d72ad21b431d29c30a3a9dc8f0f0756f41765d5b/HR%20Details)
 
 ✔ **Comprehensive employee list including:**  
 Employee ID, First Name, Last Name, Gender, State, City, Department, Job Title, Salary, Hire Date, Termination Date, Performance Rating.  
@@ -97,8 +102,8 @@ Employee ID, First Name, Last Name, Gender, State, City, Department, Job Title, 
 ---
 
 ## 📊 Final Dashboard - Bringing It All Together  
+  ![DashBoard](https://github.com/vedanshibansal/HR-Analytics---Tableau-Dashboard/blob/6fb6819c0cc87825742aa0c2465b506a846ad654/HR%20_%20Summary.png)
   
-
 This **interactive Tableau dashboard** allows users to:  
 ✅ **Analyze overall HR performance at a glance.**  
 ✅ **Understand workforce demographics and hiring trends.**  
